@@ -15,3 +15,9 @@ streamlit run web.py
 - 天气
 - 发送邮件
 - 发送短信
+
+## Embedding 相似度搜索
+
+```bash
+python embedding.py
+```
