@@ -21,3 +21,16 @@ streamlit run web.py
 ```bash
 python embedding.py
 ```
+
+## tokenizer
+
+```bash
+python tokenizer.py
+```
+
+## 文生图 & 文生视频
+
+```bash
+python text2img.py
+python text2video.py
+```
